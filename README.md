@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+ArantesViewTool::Renderer.copyright 'Igor Alves Arantes', 'All rights reserved'
+```
 
 ## Development
 
